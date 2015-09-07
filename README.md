@@ -1,0 +1,2 @@
+# node-noop
+Does nothing.
